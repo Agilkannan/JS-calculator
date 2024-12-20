@@ -1,0 +1,23 @@
+.Calculator {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    padding: 15px;
+    width: 20%;
+}
+
+#display {
+    width: 100%;
+    padding: 10px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
+
+.btn {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
